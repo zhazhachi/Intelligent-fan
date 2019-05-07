@@ -1,0 +1,13 @@
+.\obj\uln2003.o: ..\derive\uln2003.c
+.\obj\uln2003.o: ..\derive\uln2003.h
+.\obj\uln2003.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\uln2003.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\obj\uln2003.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\uln2003.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\obj\uln2003.o: ..\USER\stm32f10x_conf.h
+.\obj\uln2003.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\uln2003.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\uln2003.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\uln2003.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\obj\uln2003.o: ..\derive\systick.h
+.\obj\uln2003.o: ..\derive\sys.h

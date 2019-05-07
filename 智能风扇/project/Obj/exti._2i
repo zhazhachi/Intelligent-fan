@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\Libraries\CMSIS\CM3\CoreSupport -I ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\startup\arm -I ..\Libraries\STM32F10x_StdPeriph_Driver\inc -I ..\Libraries\STM32F10x_StdPeriph_Driver\src -I ..\USER -I ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I ..\derive
+-I D:\Projects\ÎÞÏß²â¾à\project\RTE
+-I E:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include
+-I E:\Keil_v5\ARM\CMSIS\Include
+-D__UVISION_VERSION="518" -DSTM32F10X_MD
+-o .\obj\exti.o --omf_browse .\obj\exti.crf --depend .\obj\exti.d --feedback ".\Obj\Project.fed" "..\derive\exti.c"

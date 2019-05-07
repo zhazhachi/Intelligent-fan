@@ -1,0 +1,13 @@
+.\obj\hx711.o: ..\derive\hx711.c
+.\obj\hx711.o: ..\derive\hx711.h
+.\obj\hx711.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\hx711.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\obj\hx711.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\hx711.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\obj\hx711.o: ..\USER\stm32f10x_conf.h
+.\obj\hx711.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\hx711.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\hx711.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\hx711.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\obj\hx711.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\obj\hx711.o: ..\derive\systick.h
